@@ -38,7 +38,7 @@
 		"react-hot-toast": "^2.1.1",
 		"react-table": "^7.7.0",
 		"regenerator-runtime": "^0.13.9",
-		"sharp": "^0.29.1",
+		"sharp": "^0.30.5",
 		"yup": "^0.32.9"
 	},
 	"devDependencies": {
